@@ -60,7 +60,8 @@ main .hero .about-me .hero-card{
     justify-content: start;
     border-radius: 10px;
     padding: 10px;
-    margin-top: 20px;
+    margin: 0;
+    margin-top: 20px; 
 }
 
 main .hero .about-me .information{

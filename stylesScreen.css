@@ -1,0 +1,18 @@
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    main .hero .back-image .cell{
+        display: none;
+    }
+
+    main .hero .back-image .more{
+        display: block;
+    }
+
+    main .hero .about-me {
+        justify-content: center;
+    }
+
+    main .hero .about-me .hero-card{
+        margin-left: 10%;
+    }
+  }
